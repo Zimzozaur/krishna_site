@@ -1,0 +1,28 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = "My Baby's website!"
+
+[params]
+  description = "Master real estate marketing with proven strategies"
+  author = "Krishna Koli Kar"
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "Strategies"
+    url = "/strategies/"
+    weight = 2
+  [[menu.main]]
+    name = "Case Studies"
+    url = "/case-studies/"
+    weight = 3
+  [[menu.main]]
+    name = "Resources"
+    url = "/resources/"
+    weight = 4
+
+[build]
+  writeStats = true

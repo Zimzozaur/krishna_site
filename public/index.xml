@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My Baby&#39;s website!</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on My Baby&#39;s website!</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 30 Jul 2025 16:59:06 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Social Media Marketing</title>
+      <link>http://localhost:1313/strategies/social-media-marketing/</link>
+      <pubDate>Wed, 30 Jul 2025 16:59:06 +0200</pubDate>
+      <guid>http://localhost:1313/strategies/social-media-marketing/</guid>
+      <description>&lt;h1 id=&#34;social-media-marketing-for-real-estate&#34;&gt;Social Media Marketing for Real Estate&lt;/h1&gt;&#xA;&lt;p&gt;Social media has revolutionized how real estate professionals connect with potential clients. Here&amp;rsquo;s how to make it work for you.&lt;/p&gt;&#xA;&lt;h2 id=&#34;choose-the-right-platforms&#34;&gt;Choose the Right Platforms&lt;/h2&gt;&#xA;&lt;p&gt;Not all social media platforms are created equal for real estate marketing:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Instagram&lt;/strong&gt;: Perfect for showcasing property photos and virtual tours&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Facebook&lt;/strong&gt;: Ideal for targeted advertising and community building&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;LinkedIn&lt;/strong&gt;: Great for networking and commercial real estate&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;content-that-converts&#34;&gt;Content That Converts&lt;/h2&gt;&#xA;&lt;p&gt;Create content that provides value:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
